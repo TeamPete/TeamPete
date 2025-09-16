@@ -1,5 +1,5 @@
 ### :wave: Hi, I'm Peter!
-Welcome to my GitHub portfolio! I'm passionate about data analysis and visualization, with a focus on leveraging Python, SQL, and Tableau to extract insights and drive business decisions.
+Welcome to my GitHub portfolio! I'm passionate about data analysis and visualization, with a focus on leveraging Python, SQL, and Tableau.
 
 As a self-taught data enthusiast, I've honed my skills in data engineering and analysis. I thrive on turning raw data into actionable insights, empowering teams to make informed decisions.
 
